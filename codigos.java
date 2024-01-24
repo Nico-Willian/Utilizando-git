@@ -9,6 +9,7 @@ git checkout (6 primeiras letras da log ou a branch)
 git branch (nome da branch)
 git branch -m (nome) [renomear nome da branch]
 git merge (nome da branch) [lembrar de voltar para a linha principal]
+git push origin (nome da branch) [enviar a branch para o servidor]
 */
 public class Logica{
     public static void main(String[] args) {
